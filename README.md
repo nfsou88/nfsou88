@@ -2,9 +2,5 @@
 - 👀 I’m interested in be a full stack professional know everything about the GiHub platform, know its main commands and start programming a lot.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Simple projects and solve exercises voluntarily.
-- 📫 How to reach me https://www.linkedin.com/in/nelson-ferreira-528a26142/
-
-<!---
-nfsou88/nfsou88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-ferreira-528a26142/)
